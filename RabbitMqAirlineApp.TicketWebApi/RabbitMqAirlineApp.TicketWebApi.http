@@ -1,6 +1,0 @@
-@RabbitMqAirlineApp.TicketWebApi_HostAddress = http://localhost:5066
-
-GET {{RabbitMqAirlineApp.TicketWebApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
